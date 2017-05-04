@@ -4,6 +4,8 @@ A collection of sample [Jupyter](http://jupyter.org/) notebooks and probably jus
 
 Most of what's in here will be [IPython](https://ipython.org/).
 
+One of the reasons I'm doing this is because I think it is so cool that github renders Jupyter notebooks very nicely.  So many possibilities, so little time.
+
 ## Prerequisites for running Jupyter (someplace)
 
 Just a short list of the useful links. 
@@ -17,3 +19,11 @@ How to run Jupyter in non-traditional places, the clood, Platform-as-a-Service (
 * Jupyter Docker containers
 
 
+# The Notebooks
+
+## Intro, overview, stand-alone demo
+
+* [Pandas Daily Stock Closing Price Graph using Yahoo Finance](https://github.com/rct/jupyter-samples/blob/master/Pandas_Stock_Closing_Price_Example.ipynb] - Great demo found on [GetWarped's](https://github.com/getwarped/jupyter-notebooks) repo. Just a few lines to suck data from Yahoo finance into Pandas and graph it.
+* [Wind spped and direction calculation using complex numbers from Michael Ossmann](https://github.com/rct/jupyter-samples/blob/master/Jupyter_Wind_Speed_and_Direction_Vector_Example_from_mossmann.ipynb) - Calculate average wind speed and direction vector using complex numbers. From Michael Ossman's excellent [Intro to SDR with HackRF](http://greatscottgadgets.com/sdr/) on-line tutorial.
+* [IPython Examples - Rich Output](http://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Rich%20Output.ipynb) - Lots to try here. 
+* TODO - The example that graphs an audio file into scope and FFT. 
