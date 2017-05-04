@@ -15,7 +15,7 @@ Just a short list of the useful links.
 How to run Jupyter in non-traditional places, the clood, Platform-as-a-Service (PaaS) or SaaS.
 
 * [GetWarped's](https://github.com/getwarped/jupyter-notebooks) Jupyter on [OpenShift](http://openshift.com/) - [github repo](https://github.com/getwarped/jupyter-notebooks)
-  * [Blog posts - Jupyter on OpenShift using OpenShift Data Analytics](https://blog.openshift.com/jupyter-openshift-using-openshift-data-analytics/) (6 entries) on [blog.openshift.com](https://blog.openshift.com/).
+  * [Blog posts - Jupyter on OpenShift using OpenShift Data Analytics](https://blog.openshift.com/jupyter-openshift-using-openshift-data-analytics/) (7 blog posts!)[https://blog.openshift.com/tag/jupyter/] on [blog.openshift.com](https://blog.openshift.com/).  Try [tagged Jupyter](https://blog.openshift.com/tag/jupyter/)
 * Jupyter Docker containers
 
 
@@ -28,4 +28,4 @@ How to run Jupyter in non-traditional places, the clood, Platform-as-a-Service (
 * [IPython Examples - Rich Output](http://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Rich%20Output.ipynb) - Lots to try here. 
 * TODO - Rich output examples that visualize and play audio.
   * Like the example on the IPython page that graphs an audio file into scope and FFT. 
-  * [ipython_audio from musicinformationretrieval.com][http://musicinformationretrieval.com/ipython_audio.html - some good stuff here, though some parts use librosa which isn't currently available via Anaconda.
+  * [ipython_audio from musicinformationretrieval.com](http://musicinformationretrieval.com/ipython_audio.html) - some good stuff here, though some parts use librosa which isn't currently available via Anaconda.
